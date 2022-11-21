@@ -1,0 +1,7 @@
+K.Weng  Maths 5 Chemistry 5 English 5
+T.Dixon Chinese 4 Maths 3 Chemistry 2
+V.Chu   History 3 Maths 5
+W.Chenyu Biology 5 Chemistry 3 Chinese 5
+X.Han PE 5 Dance 5 Maths 0 Chinese 3
+Y.Yier Dance 2 Maths 1 English 3
+B.Bubu Biology 3 PE 4 History 4

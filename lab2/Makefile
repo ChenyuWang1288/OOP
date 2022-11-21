@@ -1,0 +1,1 @@
+g++ main.cpp student.cpp -o out
