@@ -1,0 +1,45 @@
+<Xml_Serialization>
+    <map size="2">
+        <map_0>
+            <pair_first obj="1"/>
+            <pair_second obj="abc"/>
+        </map_0>
+        <map_1>
+            <pair_first obj="2"/>
+            <pair_second obj="bcs"/>
+        </map_1>
+    </map>
+</Xml_Serialization>
+
+<Xml_Serialization>
+    <set size="5">
+        <set0 obj="a"/>
+        <set1 obj="b"/>
+        <set2 obj="cc"/>
+        <set3 obj="sd"/>
+        <set4 obj="we"/>
+    </set>
+</Xml_Serialization>
+
+<Xml_Serialization>
+    <map size="2">
+        <map_0>
+            <pair_first obj="1"/>
+            <pair_second obj="abc"/>
+        </map_0>
+        <map_1>
+            <pair_first obj="2"/>
+            <pair_second obj="bcs"/>
+        </map_1>
+    </map>
+</Xml_Serialization>
+
+<Xml_Serialization>
+    <set size="5">
+        <set0 obj="a"/>
+        <set1 obj="b"/>
+        <set2 obj="cc"/>
+        <set3 obj="sd"/>
+        <set4 obj="we"/>
+    </set>
+</Xml_Serialization>

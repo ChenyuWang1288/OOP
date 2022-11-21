@@ -1,0 +1,15 @@
+<Xml_Serialization>
+    <list size="3">
+        <list0 obj="1.1000000000000001"/>
+        <list1 obj="2.2000000000000002"/>
+        <list2 obj="3.2999999999999998"/>
+    </list>
+</Xml_Serialization>
+
+<Xml_Serialization>
+    <list size="3">
+        <list0 obj="1.1000000000000001"/>
+        <list1 obj="2.2000000000000002"/>
+        <list2 obj="3.2999999999999998"/>
+    </list>
+</Xml_Serialization>

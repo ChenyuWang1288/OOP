@@ -1,0 +1,19 @@
+<Xml_Serialization>
+    <vector size="5">
+        <vector0 obj="1"/>
+        <vector1 obj="2"/>
+        <vector2 obj="3"/>
+        <vector3 obj="4"/>
+        <vector4 obj="5"/>
+    </vector>
+</Xml_Serialization>
+
+<Xml_Serialization>
+    <vector size="5">
+        <vector0 obj="1"/>
+        <vector1 obj="2"/>
+        <vector2 obj="3"/>
+        <vector3 obj="4"/>
+        <vector4 obj="5"/>
+    </vector>
+</Xml_Serialization>

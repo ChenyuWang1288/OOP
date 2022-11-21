@@ -1,0 +1,7 @@
+<Xml_Serialization>
+    <string obj="Jack"/>
+</Xml_Serialization>
+
+<Xml_Serialization>
+    <string obj="Jack"/>
+</Xml_Serialization>
